@@ -4,7 +4,7 @@
 
 Can you write a method that will look at STATE
 and return true if the '2' team would win 
-at tic-tac-toe?
+at tic-tac-toe? ba
 
 */
 
